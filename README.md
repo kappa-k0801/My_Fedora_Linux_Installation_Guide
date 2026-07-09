@@ -17,6 +17,7 @@ dnf install gnome-shell gdm nautilus fuse gvfs-fuse gvfs-mtp tar flatpak ptyxis
 sudo systemctl set-default graphical.target
 sudo systemctl enable gdm
 ```
+- reboot
 3) Enable Faltpak
 ```
 sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
