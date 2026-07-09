@@ -3,7 +3,7 @@
 ## Use Net Install ISO
 - Minimal installation using custom installation options
 1) Download ISO
-[Download Fedora Everything 44](https://fedoraproject.org/misc/#everything)
+[Download Fedora Everything](https://fedoraproject.org/misc/#everything)
 2) USe **"Fedora Custom Operation System"**
 3) Install :)
 
