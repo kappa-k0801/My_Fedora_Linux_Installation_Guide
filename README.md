@@ -12,7 +12,7 @@
 ```
 dnf install gnome-shell gdm nautilus fuse gvfs-fuse gvfs-mtp tar flatpak ptyxis
 ```
-2) Booot Graphical Environment
+2) Boot Graphical Environment
 ```
 sudo systemctl set-default graphical.target
 sudo systemctl enable gdm
