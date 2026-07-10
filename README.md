@@ -18,7 +18,7 @@ sudo systemctl set-default graphical.target
 sudo systemctl enable gdm
 ```
 - reboot
-3) Enable Faltpak
+3) Enable Flathub
 ```
 sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 ```
